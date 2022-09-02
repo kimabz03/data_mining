@@ -1,0 +1,451 @@
+id,sentiment,remarks
+1001,1,Takes an active role in discussions.
+1002,1,Consistently cooperates with the teacher and other students.
+1003,1,Listens well and shares ideas frequently.
+1004,1,Works democratically with peers.
+1005,1,Shows self-confidence in…
+1006,1,"Works well in groups, planning and carrying out activities."
+1007,0,Would benefit from…
+1008,0,Has difficulty writing clear and understandable sentences.
+1009,0,Words are often misplaced throughout his/her writing.
+1010,0,Frequently displays grammatical errors within his/her writing.
+1011,0,(Name) needs to slow down and review his/her writing.
+1012,0,Has difficulty understanding/solving word problems.
+1013,1,Follows directions well.
+1014,1,An enthusiastic learner who enjoys school.
+1015,1,Tackles new challenges with a positive attitude.
+1016,1,Has a positive attitude about school.
+1017,1,Consistently makes good choices during the school day.
+1018,1,Shows respect for peers and teachers.
+1019,0,Frequent absences are affecting (name’s) schoolwork.
+1020,1,Transitions easily between classroom activities and is not a distraction to others.
+1021,1,Is sensitive to the thoughts and opinions of others.
+1022,1,Is a leader and positive role model for students.
+1023,1,Is enthusiastic about participating.
+1024,1,Takes an active part in discussions about (topic).
+1025,1,Speaks with confidence.
+1026,1,Volunteers often.
+1027,1,Has a great sense of humor and enjoys our class assignments.
+1028,1,Uses class time wisely.
+1029,1,Is a self-motivated student.
+1030,1,Completes work on time.
+1031,1,Is very organized.
+1032,1,Demonstrates problem-solving skills and is persistent.
+1033,1,Has done a great job facing and overcoming big challenges this year.
+1034,1,Is very responsible and turns in work on time.
+1035,1,Is a flexible learner and adapts to changes easily.
+1036,1,Has made improvements in the area of…
+1037,1,Has strengthened his/her skills in…
+1038,1,Has demonstrated very good progress this year.
+1039,1,Is learning how to be a better listener and takes direction well.
+1040,1,Has worked very hard this year and has made strong gains in the area of ______.
+1041,1,Has shown great improvement with ______.
+1042,1,"Is progressing nicely and shows consistent improvement in many areas of schoolwork, including ______."
+1043,1,Is learning to be cooperative when working in groups.
+1044,1,Is developing more positive ways to interact with others.
+1045,1,Is listening to directions more carefully.
+1046,1,Has continued to make steady progress with…
+1047,1,Has shown noticeable improvement in…
+1048,1,Is willing to learn new writing skills and quickly applies these skills within his/her writing.
+1049,1,Understands and applies the correct use of punctuation within writing.
+1050,1,Writing is clear and follows grammar and punctuation rules.
+1051,1,Enjoys writing stories and can construct unique and interesting sentences.
+1052,1,Is able to create clear and effective writing that is interesting to read and easy to comprehend.
+1053,1,Has shown great improvement with his/her writing skills and is consistently increasing his or her writing comprehension and techniques.
+1054,1,Uses various strategies to solve one- and two-step word problems.
+1055,1,Demonstrates a good understanding of math concepts.
+1056,1,Demonstrates strong problem-solving skills.
+1057,1,Has strengthened his/her critical thinking and problem-solving skills.
+1058,1,"If _____ continues to put out the effort he has demonstrated in the last two reporting periods, he will benefit greatly from his education."
+1059,1,The following ideas might help him enhance his _____.
+1060,1,I'm hoping that the current level of enthusiasm and progress will continue.
+1061,1,"In all academic disciplines, _____ is improving. She's having a hard time with____."
+1062,1,"She has a long way to go, but if she works hard enough, she will see results soon."
+1063,1,_____ takes tremendous pride in his work and always completes it neatly.
+1064,1,"In ______, _____ is quite strong."
+1065,1,_____ has received an excellent grade on his report card.
+1066,1,______ is something that _____ knows a lot about.
+1067,1,_____ is a bright and hardworking student who excels in_____
+1068,1,"In all of the fundamental subjects, _____ is performing admirably."
+1069,1,"In ______, _____ is working over grade level."
+1070,1,_____ is particularly skilled at______.
+1071,1,The independence of _____ is increasing.
+1072,1,_____ has steadily improved.
+1073,1,_____ has been steadily improving.
+1074,1,"In ______, _____ has demonstrated a positive attitude toward wanting to improve."
+1075,1,"_____ appears to be eager to learn more. In _______, _____ has experienced rapid expansion."
+1076,1,"Academically, _____ is making steady progress."
+1077,1,The quality of _____'s work is improving.
+1078,1,_____ has improved her _____ abilities.
+1079,1,_____ has demonstrated a positive desire to improve herself in _____.
+1080,1,"If he were more interested in _______, his performance would increase."
+1081,1,"This reporting period, _____ has made significant progress."
+1082,1,"I'm pleased to see that _____ is maturing well, and I hope that this trend continues."
+1083,1,The classroom attitude of _____ has improved.
+1084,1,The handiwork of _____ is superb.
+1085,1,"_____ appreciates doing nice, meticulous work."
+1086,1,The work of _____ is tidy and precise.
+1087,1,_____ creates vibrant and intriguing artwork.
+1088,1,Work well done is something that _____ is proud of.
+1089,1,_____ has a lot of potential and is working hard to realise it.
+1090,1,_____ is performing to the best of his or her ability.
+1091,1,_____ is a dependable and conscientious worker.
+1092,1,_____ is enthusiastic about his or her job in general.
+1093,1,_____ is looking for information.
+1094,1,_____ is a dedicated student.
+1095,1,_____ is very conscientious.
+1096,1,_____ is a pleasant and responsible student.
+1097,1,_____ is a dedicated worker.
+1098,1,"During the ___ period, _____ is a hard worker."
+1099,1,_____ is a respectful and conscientious student.
+1100,1,Thank you for your enthusiasm for our class. I am pleased to report that ______ is improving in terms of his attitude in our classroom.
+1101,1,______ has made great strides this year in terms of her attitude in the classroom and on the playground.
+1102,1,"If ______ is to overcome her attitude and social difficulties, I will continue to need your assistance and support. If she can make a positive effort in this area, she will find school much more enjoyable."
+1103,1,________'s attitude has improved over time. Thank you for your cooperation and support.
+1104,1,_____ has a fantastic attitude.
+1105,1,_____ has a great attitude toward school.
+1106,1,_____ maintains a positive attitude toward school.
+1107,1,_____ takes responsibility well and has a pleasant demeanour.
+1108,1,_____ takes the initiative and thinks things through on his own.
+1109,1,_____ is a nice student to work with.
+1110,1,_____ is an exceptionally thoughtful student.
+1111,1,_____ has a pleasant demeanour.
+1112,1,_____ is a pleasant and friendly person.
+1113,1,_____ is cooperative and content.
+1114,1,_____ is courteous and cooperative.
+1115,1,_____ has a friendly attitude.
+1116,1,_____ is a joy to be around.
+1117,1,_____ is a pleasant and helpful person.
+1118,1,_____ is a pleasant and cooperative youngster.
+1119,1,"_____ is a cheerful, well-adjusted child, but_____."
+1120,1,_____ is self-assured and well-mannered.
+1121,1,We all enjoy _____'s sense of humour.
+1122,1,_____ is amusing and enjoys the stories we read.
+1123,1,____ is excited about taking part.
+1124,1,_____ contributes significantly in class.
+1125,1,_____ is a frequent volunteer.
+1126,1,_____ is eager to participate in all classroom activities.
+1127,1,_____ is enthusiastic about what we do.
+1128,1,_____ contributes significantly.
+1129,1,_____ participates actively in discussions about ____
+1130,1,_____ responds nicely.
+1131,1,_____ addresses the group with confidence.
+1132,1,_____ takes turns speaking.
+1133,1,Participating in conversations and discussions is something that _____ enjoys doing.
+1134,1,"In class, _____ should take an active role in the discussion."
+1135,1,This year has seen a significant improvement in ______'s study habits. Please keep working on these abilities over the summer.
+1136,1,Thank you for your interest in this year's schoolwork of _____ . Her work will provide her with a great deal of satisfaction if she continues to put forth the effort.
+1137,1,______ is a good citizen who works hard. I've had a great time having him in my class this year. Have a fantastic summer!
+1138,1,"This year, ______ has matured nicely. His progress over the last three months has been impressive. I'm hoping that this effort and attitude will continue into the next school year."
+1139,1,Thank you for your interest in our class this year and for your support. ______ is a diligent student who should do well in the ____ grade.
+1140,1,"This year, both academically and socially, ______ has matured nicely."
+1141,1,"______'s friendly, genuine demeanour has made him a popular member of the __ grade."
+1142,1,"This summer, ______ would benefit from reading a lot of library books."
+1143,1,"If ______ is to succeed in the _____ grade, he must improve his reading speed and comprehension."
+1144,1,"As the year progressed, ______ continued to bloom."
+1145,1,______ made my year more enjoyable.
+1146,1,______ is a very pleasant and willing worker who takes a keen interest in all of her work. It's been great having her in my room.
+1147,1,Thank you for the assistance I'm sure you've provided her.
+1148,1,Please continue with _____ review and as many reading experiences as possible over the summer.
+1149,1,Thank you for your interest in ______'s personality.
+1150,1,I'm sorry I couldn't meet you this year.
+1151,1,Thank you for your help.
+1152,1,"With her friendly, cooperative demeanour, ______ will always be a welcome addition to any class."
+1153,1,I've had a good time being associated with ______.
+1154,1,I had a great time having ______ in my class.
+1155,1,It was a pleasure having ______ in my class.
+1156,1,_____'s reading has improved significantly over the course of the year. Please continue to read with her every night.
+1157,1,"______ is an excellent public speaker. Her written work, on the other hand, could be much better. With more effort, progress should be made gradually."
+1158,1,______ has made significant progress in her creative writing. She's gotten better at using more colourful words.
+1159,1,______ is making great strides in her reading of sight words. Please keep practising with him every night.
+1160,1,"Since the beginning of the school year, ______'s spelling scores have significantly improved. The fact that he studies his spelling words every night has made a significant difference. Thank you for your assistance."
+1161,1,____ picks up new words rapidly.
+1162,1,______ needs to improve his reading speed and comprehension.
+1163,1,_______ has a well-developed reading vocabulary.
+1164,1,______ is a voracious reader.
+1165,1,______ is now aware of and proficient in the use of ____ consonant and vowel sounds.
+1166,1,The sounds ____ and ____ are mixed up by _____ .
+1167,1,______ may blend short words without help by utilising the vowel(s) .
+1168,1,______ is working on attacking words on his own.
+1169,1,"The reading of ______ is.. (smooth, jerky, hesitant, rapid, irregular, or fluent)."
+1170,1,______ understands what she is reading.
+1171,1,______ enjoys reading and is passionate about literature.
+1172,1,______ is able to read and follow instructions.
+1173,1,_____ sight words are now recognised by ____ .
+1174,1,______ enjoys reading.
+1175,1,______ continues to mix up words that appear to be the same.
+1176,1,______ is starting to read phrases and groupings of words.
+1177,1,The reading of ______ is getting habitual.
+1178,1,______ enjoys talking about the stories we've been reading.
+1179,1,______ can read his sentences back
+1180,1,___ must use his or her abilities in all written work.
+1181,1,______ is a fantastic writer of creative stories and poetry.
+1182,1,______ can accurately arrange periods and question marks.
+1183,1,"In his writing, ______ employs a variety of colourful words."
+1184,1,"In her work, ______ employs (complicated, simple) sentences."
+1185,1,______ can now compose a complete sentence on his own.
+1186,1,______ can compose a two- to four-sentence original tale.
+1187,1,______ arranges words in the correct sequence.
+1188,1,"In writing, ______ demonstrates self-assurance."
+1189,1,______ can put together a number of similar sentences.
+1190,1,______ is working on expanding his spelling vocabulary.
+1191,1,"To look up unusual words, ______ consults a dictionary."
+1192,1,______ enjoys learning new words to spell.
+1193,1,______ has an easy time learning to spell words.
+1194,1,"______'s basic skills are all on grade level, but he is not working to his full potential."
+1195,1,"Over the last quarter, ______'s schoolwork has improved. I sincerely hope that this work will continue."
+1196,1,______'s actions are still inconsistent. She continues to struggle with obeying school rules and treating other pupils with respect. Please call to schedule a meeting. Thank you for your unwavering support and assistance from home. It's clear that you've been spending extra time with ______ on his schooling.
+1197,1,"Since our last meeting, ______ has improved. I recommend that you keep working on ______ every night."
+1198,1,______ is a well-mannered and vigilant ____ grader. He needs to be encouraged to engage in class because he is a quiet boy. Any assistance you can provide from your own home would be really valuable.
+1199,1,______ has made a good transition to her new school. Could you please contact me as soon as you have moved into your new home to arrange a meeting?
+1200,1,______ is becoming more self-assured.
+1201,1,______ is adhering to grade-level standards.
+1202,1,______ does a fantastic job in everything he does.
+1203,1,______ is a hard worker who excels in all areas.
+1204,1,______ is a person who thinks clearly.
+1205,1,______'s thoughts are well-organized.
+1206,1,It is important to encourage ______ to .
+1207,1,______ requires a lot of encouragement.
+1208,1,______ is a creative person.
+1209,1,Demonstrates perseverance in distance learning and serves as a role model for other students.
+1210,1,TEAMS is used to submit class assignments and communicate with teachers and classmates.
+1211,1,Has done an excellent job of navigating new technology and troubleshooting technical issues.
+1212,1,Completes asynchronous and autonomous work and always meets deadlines.
+1213,1,"When it comes to completing learning assignments, she goes above and beyond in terms of detail and quality."
+1214,1,"With online learning, ____ has successfully maintained his/her class demeanour and work habits."
+1215,1,"_____ is methodical in his approach, thinks things through for himself, and is a quick and eager student."
+1216,1,_____ is fascinated by the nature of learning and always puts in his or her best effort to find the greatest available solutions.
+1217,1,"_____ is a focused and enthusiastic participant in the online learning session, and works with zeal and determination."
+1218,1,"_____ is able to reach his or her full potential, as evidenced by his or her contributions to conversations and work submitted."
+1219,1,Maintains focus in online learning despite technological challenges and changes associated with remote learning.
+1220,1,___ enthusiastically engages in class discussions and works effectively with peers.
+1221,1,___ takes charge of his or her own education and always asks for support when needed.
+1222,1,Always arrives on time for class and is a dedicated student.
+1223,1,"___ was usually well-prepared, well-organized, and enthusiastic about making the most of online classes."
+1224,1,___ is a dedicated student who participates actively in class. His/her suggestions are useful and entertaining.
+1225,1,"___ takes an active interest in his or her own learning, pays close attention, and makes a concerted effort to avoid distractions that could disrupt the learning process."
+1226,1,___ is a person who takes responsibility and accountability seriously. He or she makes sound decisions and is open to new ideas.
+1227,1,___ gets along well with his peers and values varied viewpoints and experiences.
+1228,1,___ is constantly looking for ways to assist in the classroom.
+1229,1,"___ is dependable and trustworthy, follows instructions well, and keeps his or her promises to himself and others."
+1230,1,"In written and verbal communication, ___ is thoughtful, insightful, and comprehensive, and has a talent for clearly conveying his or her ideas."
+1231,1,"When solving problems with students, ___ displays maturity and exhibits good communication skills when sharing thoughts and ideas about a certain topic/concept."
+1232,1,___ excels at transferring classroom knowledge to real-world and real-life circumstances.
+1233,0,Has difficulty staying focused and on task. · Needs to actively participate in classroom discussion.
+1234,0,Needs to work on not distracting others during class.
+1235,0,"Is learning to be careful, cooperative, and fair."
+1236,0,I would like to see him/her work on…
+1237,0,One area for improvement is…
+1238,0,Eager to participate in class but needs to raise his/her hand.
+1239,0,Is becoming more independent when completing class assignments.
+1240,0,Needs frequent reminders to stay focused throughout the day.
+1241,0,"When motivated, does well on class assignments."
+1242,0,Needs to work on following written and oral directions.
+1243,0,Needs to actively participate in classroom discussions.
+1244,0,Needs to work on treating others with respect.
+1245,0,Needs to work on completing homework assignments on time.
+1246,0,Frequently comes to class unprepared.
+1247,0,Often seems tired at school.
+1248,0,Gets upset easily when (topic).
+1249,0,"Although _____________’s growth in social skills and maturity is continuing, it is not consistent."
+1250,0,_______ continues to make nice progress this year concerning his/her attitude in the classroom and on the playground.
+1251,0,Does not complete assignments on time. Seems unable to finish.
+1252,0,Is encouraged to use time wisely to finish tasks in the time required.
+1253,0,Struggles to stay organized and find appropriate materials (paper/pencil).
+1254,0,Needs to slow down to improve the quality of his/her work.
+1255,0,Is not working to full potential.
+1256,0,Is easily distracted.
+1257,0,Needs to listen and follow directions more carefully.
+1258,0,Needs more opportunities to…
+1259,0,Grades are suffering because of missed assignments.
+1260,0,Understands skills and strategies but has a difficult time explaining processes.
+1261,0,Would benefit from memorizing math facts.
+1262,0,Has difficulty solving multi-step problems.
+1263,0,Needs to slow down and check work.
+1264,0,Memorizing basic math facts would be helpful to…
+1265,0,"_____ is a frequent volunteer who makes significant contributions to the class. She has a tendency to work too rapidly, which leads to a lot of unintentional mistakes. At home and at school, we can assist her in correcting this."
+1266,0,"For his age, _____ is a hard worker with outstanding vocabulary skills. He likes to read and write."
+1267,0,The quality of _____'s work reflects her positive attitude. Thank you for all of your hard work.
+1268,0,"Despite his best efforts, _____ finds it difficult to keep up with the rest of the class. Can we meet to discuss this?"
+1269,0,"As we mentioned at our latest meeting, ______'s work is not up to par. I am confident that with more effort and concentration, he will quickly improve."
+1270,0,"_____ is genuinely interested in everything we do in class. She, on the other hand, is experiencing some difficulties with . Please go through this with her every night."
+1271,0,"Because of her low achievement level, _____ finds it challenging to keep up with the rest of the class."
+1272,0,"In the domains of ____, _____ is capable of reaching a higher average."
+1273,0,We will concentrate on _____ in the coming term because _____ has had problems learning .
+1274,0,_____ is capable of doing a much better job.
+1275,0,Both you and I must continue to guide and assist _____.
+1276,0,"To get her up to _____Â grade level, _____ has been really cooperative and only needs to improve her social studies skills."
+1277,0,_____ has been getting poor grades on quizzes and tests.
+1278,0,_____ does not work to her full potential.
+1279,0,The material is tough for _____ to comprehend.
+1280,0,"As I have stated in my reports, _______ does not manage his time effectively in class. Please explain to him that we study in class and play only at particular times during the school day."
+1281,0,"When ______ is able to relax, she produces considerably better results. She does, however, frequently seek the attention of her peers, which causes everyone to be distracted."
+1282,0,"_________ must continue to improve his work habits, as we mentioned in earlier meetings. We need to encourage him to take his work much more seriously."
+1283,0,"______ enjoys participating in artistic pursuits. However, I am concerned about how much time she spends painting when she has other responsibilities. Could we possibly meet to explore methods for assisting ________ in resolving this problem?"
+1284,0,"_______ is now working on grade-level material. I am confident, though, that he is capable of producing superior work. I'm confident that his work will improve as his attention improves."
+1285,0,"______ wastes a lot of his work time daydreaming and then fails to finish on time. He is capable of doing the work in the time provided, and he needs to get started."
+1286,0,"_______ has done some good work, but it hasn't been consistent. She is a very gregarious and restless person who frequently does not complete her assignment on time. Thank you so much for your assistance at home. Please keep working with her on this matter."
+1287,0,"_______ is very eager to do her work, yet she can be a nuisance to the other pupils. Despite the fact that she has made improvement in this area over the last month, she still has work to do."
+1288,0,"______ is having trouble because he frequently speaks out loud, disrupting the other pupils. He's working on changing this unhealthy behaviour, and he's made some progress in the last several weeks."
+1289,0,"As I have stated in my reports, _______ does not manage his time effectively in class. Please explain to him that we study in class and play only at particular times during the school day."
+1290,0,"When ______ is able to relax, she produces considerably better results. She does, however, frequently seek the attention of her peers, which causes everyone to be distracted."
+1291,0,"_________ needs to continue to improve his work habits, as we mentioned in earlier meetings. We must motivate him to take his task more seriously."
+1292,0,"______ enjoys participating in artistic pursuits. However, I am concerned about how much time she spends painting when she has other responsibilities. Could we possibly meet to explore methods for assisting ________ in resolving this problem?"
+1293,0,"_______ is now working on grade-level material. I am confident, though, that he is capable of producing superior work. I'm confident that his work will improve as his attention improves."
+1294,0,"______ wastes a lot of his work time daydreaming and then fails to finish on time. He is capable of doing the work in the time provided, and he needs to get started."
+1295,0,"_______ has done some excellent work, but it hasn't been consistent. She is a social butterfly who is often agitated and frequently fails to complete her tasks on time. I appreciate your assistance at home. Continue to collaborate with her on this matter."
+1296,0,"_______ is very eager to do her work, yet she can be a nuisance to the other pupils. She has made progress in this area over the last month, but she still has work to do."
+1297,0,"______ is having trouble because he frequently speaks out loud, disrupting the other pupils. He's working on changing this unhealthy behaviour, and he's made some progress in the last several weeks."
+1298,0,____ is prone to making careless mistakes.
+1299,0,_____ is untidy.
+1300,0,Proofreading is something that _____ must do.
+1301,0,"If _____ is to gain the fundamentals required for ____ grade work, he must improve his work habits."
+1302,0,"_____'s efforts are inconsistent, particularly in ____."
+1303,0,"When not directly supervised, _____ makes little effort. _____ is eager to please."
+1304,0,"Although ______'s attitude toward his schoolwork has improved, it has not been consistent. Throughout the rest of the school year, he will require consistent guidance from both home and school."
+1305,0,This report card reflects _______'s attitude toward school. He could do better if he worked harder and cooperated more.
+1306,0,"This reporting quarter reflects ______'s attitude toward our school rules, other students, and myself. She has the potential to be a successful student if she works hard enough."
+1307,0,"As my previous reports have shown, _____ does not complete his schoolwork. He can do better if he makes the decision to work harder and finish his assignments."
+1308,0,"Although _____'s attitude toward her classmates has improved, she still needs to be reminded to be respectful on a regular basis."
+1309,0,"As we discussed in our last meeting, _______ has a negative attitude toward basic skills. Please continue to do a nightly review with her, focusing especially on ."
+1310,0,____ is changing his attitude toward __ grade.
+1311,0,_____ must improve his or her classroom demeanour.
+1312,0,_____ is easily disturbed.
+1313,0,_____ is prone to crying.
+1314,0,_____ appears tired a lot at school.
+1315,0,"Although ____________'s social maturity is increasing, it is inconsistent."
+1316,0,"_____ is having trouble writing clear, fluent sentences, despite her best efforts. Is it possible for us to meet to discuss some useful strategies?"
+1317,0,_____ pays close attention to stories.
+1318,0,______ can tell the difference between sounds in words.
+1319,0,______ has trouble differentiating between sounds in words.
+1320,0,"To retain reading vocabulary, ______ requires a lot of repetition and practise."
+1321,0,The reading of ______ is still not automatic.
+1322,0,_____ has a tendency of reversing letters in words.
+1323,0,______ has trouble memorising non-phonetic word spellings.
+1324,0,"To recall spelling, ______ makes use of hand or body motions."
+1325,0,_____ is a frequent latecomer.
+1326,0,______ takes a lot of time off.
+1327,0,______ has not completed her makeup work.
+1328,0,______ is a bright student who appears to ponder deeply.
+1329,0,______ is quick to pick up on new concepts.
+1330,0,______ is a person who talks a much.
+1331,0,______ should devote more time to his or her allotted job.
+1332,0,______ does not devote enough time to his or her homework.
+1333,0,______ has to work on his or her self-control.
+1334,0,____ has trouble keeping on task and finishing his or her assignment.
+1335,0,He or she must pay close attention to directions in order to learn to operate autonomously.
+1336,0,Reminders about the regular classroom schedule are required. It would be beneficial to talk about the classroom routine at home.
+1337,0,"Turns in incomplete work or no homework on a regular basis. Encouraging ____ to complete his or her work on time and according to the timetable and timeline set, so enhancing his or her organisational skills."
+1338,0,"Does not actively participate in group activities; therefore, is encouraged to put forth effort in order to improve communication skills as well as attention and confidence."
+1339,0,"___ was an active participant in online learning sessions, but she needed to be reminded from time to time to allow other students to share their work and ideas as well."
+1340,0,"___ participates enthusiastically in online group activities, but finds it difficult to work independently."
+1341,0,"During class, ___'s engagement and behaviour are inconsistent and disengaged."
+1342,0,___ is having trouble grasping concepts. It would be useful to pay more attention to the required tasks and to attend the online classes on a regular basis.
+1343,0,"When it comes to schoolwork, ___ needs a lot of help from adults. She has trouble grasping simple concepts and is unable to work on her own."
+1344,0,"In the online learning environment, ___ struggled to engage and participate in discussions and activities."
+1345,0,"___ has not worked hard enough to satisfy the grade level objectives. It would be great to have regular work habits, active engagement, and the ability to clarify doubts."
+1346,0,___ needs to pay greater attention to guidance throughout lessons in order to apply concepts learned and complete given assignments.
+1347,0,___ would benefit from demonstrating a stronger desire to participate in class discussions.
+1348,0,___ needs to be reminded to pay attention during instructions and lessons on a regular basis.
+1349,0,"___ has trouble focusing in class, which hinders his or her ability to participate fully in class activities and tasks."
+1350,0,___ is encouraged to make good use of his or her time in order to finish things on schedule.
+1351,0,___ is encouraged to take greater responsibility for completing chores without the need for frequent reminders.
+1352,0,___ must demonstrate that he or she is engaged in the learning process through the quality of his or her work and the efficient use of class time.
+1353,0,He or she must pay close attention to directions in order to learn to operate autonomously.
+1354,0,Reminders about the regular classroom schedule are required. It would be beneficial to talk about the classroom routine at home.
+1355,0,"Turns in incomplete work or no homework on a regular basis. Encouraging ____ to complete his or her work on time and according to the timetable and timeline set, so enhancing his or her organisational skills."
+1356,0,"Does not actively participate in group activities; therefore, is encouraged to put forth effort in order to improve communication skills as well as attention and confidence."
+1357,0,"___ was an active participant in online learning sessions, but she needed to be reminded from time to time to allow other students to share their work and ideas as well."
+1358,0,"___ participates enthusiastically in online group activities, but finds it difficult to work independently."
+1359,0,"During class, ___'s engagement and behaviour are inconsistent and disengaged."
+1360,0,___ is having trouble grasping concepts. It would be useful to pay more attention to the required tasks and to attend the online classes on a regular basis.
+1361,0,"When it comes to schoolwork, ___ needs a lot of help from adults. She has trouble grasping simple concepts and is unable to work on her own."
+1362,0,"In the online learning environment, ___ struggled to engage and participate in discussions and activities."
+1363,0,"___ has not worked hard enough to satisfy the grade level objectives. It would be great to have regular work habits, active engagement, and the ability to clarify doubts."
+1364,0,___ needs to pay greater attention to guidance throughout lessons in order to apply concepts learned and complete given assignments.
+1365,0,___ would benefit from demonstrating a stronger desire to participate in class discussions.
+1366,0,___ needs to be reminded to pay attention during instructions and lessons on a regular basis.
+1367,0,"___ has trouble focusing in class, which hinders his or her ability to participate fully in class activities and tasks."
+1368,0,___ is encouraged to make good use of his or her time in order to finish things on schedule.
+1369,0,___ is encouraged to take greater responsibility for completing chores without the need for frequent reminders.
+1370,0,___ must demonstrate that he or she is engaged in the learning process through the quality of his or her work and the efficient use of class time.
+1371,0,Does not complete assignments on time. Seems unable to finish.
+1372,0,Is encouraged to use time wisely to finish tasks in the time required.
+1373,0,Struggles to stay organized and find appropriate materials (paper/pencil).
+1374,0,Needs to slow down to improve the quality of his/her work.
+1375,0,Is not working to full potential.
+1376,0,Is easily distracted.
+1377,0,Needs to listen and follow directions more carefully.
+1378,0,Needs more opportunities to…
+1379,0,Grades are suffering because of missed assignments.
+1380,0,Would benefit from…
+1381,0,Has difficulty writing clear and understandable sentences.
+1382,0,Words are often misplaced throughout his/her writing.
+1383,0,Frequently displays grammatical errors within his/her writing.
+1384,0,(Name) needs to slow down and review his/her writing.
+1385,0,Has difficulty understanding/solving word problems.
+1386,0,Understands skills and strategies but has a difficult time explaining processes.
+1387,0,Would benefit from memorizing math facts.
+1388,0,Has difficulty solving multi-step problems.
+1389,0,Needs to slow down and check work.
+1390,0,Memorizing basic math facts would be helpful to…
+1391,0,"_____ is a frequent volunteer who makes significant contributions to the class. She has a tendency to work too rapidly, which leads to a lot of unintentional mistakes. At home and at school, we can assist her in correcting this."
+1392,0,"For his age, _____ is a hard worker with outstanding vocabulary skills. He likes to read and write."
+1393,0,The quality of _____'s work reflects her positive attitude. Thank you for all of your hard work.
+1394,0,"Despite his best efforts, _____ finds it difficult to keep up with the rest of the class. Can we meet to discuss this?"
+1395,0,"As we mentioned at our latest meeting, ______'s work is not up to par. I am confident that with more effort and concentration, he will quickly improve."
+1396,0,"_____ is genuinely interested in everything we do in class. She, on the other hand, is experiencing some difficulties with . Please go through this with her every night."
+1397,0,"Because of her low achievement level, _____ finds it challenging to keep up with the rest of the class."
+1398,0,"In the domains of ____, _____ is capable of reaching a higher average."
+1399,0,We will concentrate on _____ in the coming term because _____ has had problems learning .
+1400,0,_____ is capable of doing a much better job.
+1401,0,Both you and I must continue to guide and assist _____.
+1402,0,"To get her up to _____Â grade level, _____ has been really cooperative and only needs to improve her social studies skills."
+1403,0,_____ has been getting poor grades on quizzes and tests.
+1404,0,_____ does not work to her full potential.
+1405,0,The material is tough for _____ to comprehend.
+1406,0,"As I have stated in my reports, _______ does not manage his time effectively in class. Please explain to him that we study in class and play only at particular times during the school day."
+1407,0,"When ______ is able to relax, she produces considerably better results. She does, however, frequently seek the attention of her peers, which causes everyone to be distracted."
+1408,0,"_________ must continue to improve his work habits, as we mentioned in earlier meetings. We need to encourage him to take his work much more seriously."
+1409,0,"______ enjoys participating in artistic pursuits. However, I am concerned about how much time she spends painting when she has other responsibilities. Could we possibly meet to explore methods for assisting ________ in resolving this problem?"
+1410,0,"_______ is now working on grade-level material. I am confident, though, that he is capable of producing superior work. I'm confident that his work will improve as his attention improves."
+1411,0,"______ wastes a lot of his work time daydreaming and then fails to finish on time. He is capable of doing the work in the time provided, and he needs to get started."
+1412,0,"_______ has done some good work, but it hasn't been consistent. She is a very gregarious and restless person who frequently does not complete her assignment on time. Thank you so much for your assistance at home. Please keep working with her on this matter."
+1413,0,"_______ is very eager to do her work, yet she can be a nuisance to the other pupils. Despite the fact that she has made improvement in this area over the last month, she still has work to do."
+1414,0,"______ is having trouble because he frequently speaks out loud, disrupting the other pupils. He's working on changing this unhealthy behaviour, and he's made some progress in the last several weeks."
+1415,0,"As I have stated in my reports, _______ does not manage his time effectively in class. Please explain to him that we study in class and play only at particular times during the school day."
+1416,0,"When ______ is able to relax, she produces considerably better results. She does, however, frequently seek the attention of her peers, which causes everyone to be distracted."
+1417,0,"_________ needs to continue to improve his work habits, as we mentioned in earlier meetings. We must motivate him to take his task more seriously."
+1418,0,"______ enjoys participating in artistic pursuits. However, I am concerned about how much time she spends painting when she has other responsibilities. Could we possibly meet to explore methods for assisting ________ in resolving this problem?"
+1419,0,"_______ is now working on grade-level material. I am confident, though, that he is capable of producing superior work. I'm confident that his work will improve as his attention improves."
+1420,0,"______ wastes a lot of his work time daydreaming and then fails to finish on time. He is capable of doing the work in the time provided, and he needs to get started."
+1421,0,"_______ has done some excellent work, but it hasn't been consistent. She is a social butterfly who is often agitated and frequently fails to complete her tasks on time. I appreciate your assistance at home. Continue to collaborate with her on this matter."
+1422,0,"_______ is very eager to do her work, yet she can be a nuisance to the other pupils. She has made progress in this area over the last month, but she still has work to do."
+1423,0,"______ is having trouble because he frequently speaks out loud, disrupting the other pupils. He's working on changing this unhealthy behaviour, and he's made some progress in the last several weeks."
+1424,0,____ is prone to making careless mistakes.
+1425,0,_____ is untidy.
+1426,0,Proofreading is something that _____ must do.
+1427,0,"If _____ is to gain the fundamentals required for ____ grade work, he must improve his work habits."
+1428,0,"_____'s efforts are inconsistent, particularly in ____."
+1429,0,"When not directly supervised, _____ makes little effort. _____ is eager to please."
+1430,0,"Although ______'s attitude toward his schoolwork has improved, it has not been consistent. Throughout the rest of the school year, he will require consistent guidance from both home and school."
+1431,0,This report card reflects _______'s attitude toward school. He could do better if he worked harder and cooperated more.
+1432,0,"This reporting quarter reflects ______'s attitude toward our school rules, other students, and myself. She has the potential to be a successful student if she works hard enough."
+1433,0,"As my previous reports have shown, _____ does not complete his schoolwork. He can do better if he makes the decision to work harder and finish his assignments."
+1434,0,"Although _____'s attitude toward her classmates has improved, she still needs to be reminded to be respectful on a regular basis."
+1435,0,"As we discussed in our last meeting, _______ has a negative attitude toward basic skills. Please continue to do a nightly review with her, focusing especially on ."
+1436,0,Has difficulty staying focused and on task. · Needs to actively participate in classroom discussion.
+1437,0,Needs to work on not distracting others during class.
+1438,0,"Is learning to be careful, cooperative, and fair."
+1439,0,I would like to see him/her work on…
+1440,0,One area for improvement is…
+1441,0,Eager to participate in class but needs to raise his/her hand.
+1442,0,Is becoming more independent when completing class assignments.
+1443,0,Needs frequent reminders to stay focused throughout the day.
+1444,0,"When motivated, does well on class assignments."
+1445,0,Needs to work on following written and oral directions.
+1446,0,Needs to actively participate in classroom discussions.
+1447,0,Frequent absences are affecting (name’s) schoolwork.
+1448,0,Needs to work on treating others with respect.
+1449,0,Needs to work on completing homework assignments on time.
+1450,0,Frequently comes to class unprepared.
